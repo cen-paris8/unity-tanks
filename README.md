@@ -31,3 +31,17 @@ Player Two :
 	* Turn Left : Left  
 	* Fire : Enter  
 	
+***
+
+Notions abordées:
+* Audio Mix  
+* GameManager/TakeManager  
+* CameraRig Frustum  
+* Camera orthographique et perspective  
+* Ui Slider (Health)  
+* Light Ambiant  
+* Particule System on distance  
+* Add Explosion Force ()  in OnTriggerEnter()  
+* IsKinematic
+
+
