@@ -19,16 +19,16 @@ Urldqsdsq
 To Play :
 
 Player One :
-	- Up :
-	- Down :
-	- Turn Right :
-	- Turn Left :
-	- Fire :
+	- Up : S
+	- Down : W
+	- Turn Right : A
+	- Turn Left : D
+	- Fire : Space
 
 Player Two :
-	- Up :
-	- Down :
-	- Turn Right :
-	- Turn Left :
-	- Fire :
+	- Up : Up
+	- Down : Down
+	- Turn Right : Right
+	- Turn Left : Left
+	- Fire : Enter
 	
