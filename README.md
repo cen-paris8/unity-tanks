@@ -8,7 +8,6 @@ GameManager schema :
 
 ![GitHub Logo](tanksCapture.PNG)
 
-
 ***
 Game :
 https://cen-paris8.github.io/unity-tanks/gh-pages/
@@ -33,7 +32,7 @@ Player Two :
 	
 ***
 
-Notions abordées:
+Notions abordÃ©es:
 * Audio Mix  
 * GameManager/TakeManager  
 * CameraRig Frustum  
